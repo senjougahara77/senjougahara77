@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @senjougahara77
-- 👀 I’m interested in algorithms and computer architechture.
+- 👀 I’m interested in algorithms and computer architecture.
 - 🌱 I’m currently learning SpringBoot.
 
 
