@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @senjougahara77
+- 👋 Hi, I’m MAO.
 - 👀 I’m interested in algorithms and computer architecture.
 - 🌱 I’m currently learning SpringBoot.
 
