@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MAO.
 - 👀 I’m interested in algorithms and computer architecture.
-- 🌱 I’m currently learning SpringBoot.
+- 🌱 I’m currently learning processing in memory(pim) technology.
 
 
 <!---
